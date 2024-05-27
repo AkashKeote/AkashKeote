@@ -36,4 +36,7 @@
 
 <h2 align="left">Languages And Tools I Am Comfortable With</h2>
 <div align="center">
+<img src="https://skillicons.dev/icons?i=java,git,github,html,css,c,c++,flutter,python" />
+</div>
+
     
