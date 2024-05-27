@@ -41,7 +41,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,c,java" /><br>
-    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/c-.png"/> <br>
+    
 </div>
 
 <br/>
