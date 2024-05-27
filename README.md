@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=F7C46F&center=true&vCenter=true&random=false&width=435&lines=😄+Hello;This+is+Akash+Keote"
 </h1>
 
-<h2 align="left">My Intrest 🙃</h2>
+<h2 align="left">⚡ My Intrest ⚡</h2>
 <h4 align="left">Tech & Gadgets</h4>
 <h4 align="left">Love Coding</h4>
 <h4 align="left">Computer Gaming</h4>
@@ -16,11 +16,7 @@
  
  🏫 I’m currently currently pursuing engineering **GHRIETN 2026**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
 
  </div>
  
@@ -28,11 +24,11 @@
   <a href="https://www.instagram.com/am_sky__7/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/2613305_business_employment_identity_linkedin_social%20media_icon.png" />
+  <a href="keoteakash@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.linkedin.com/in/akash-keote-643245253/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
