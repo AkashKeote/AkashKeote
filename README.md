@@ -26,7 +26,7 @@
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="<box-icon type='logo' name='instagram'></box-icon>" />
+    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/bxl-instagram-alt.svg" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://github.com/AkashKeote/AkashKeote/blob/main/bxl-instagram.svg" />
