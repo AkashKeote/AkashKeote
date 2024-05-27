@@ -29,7 +29,7 @@
     <img src="https://github.com/AkashKeote/AkashKeote/blob/main/2246825_instagram%20logo_label_logo_instagram_icon%20(2).png" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/bxl-instagram.svg" />
+    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/2613305_business_employment_identity_linkedin_social%20media_icon.png" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
