@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="left"><img src="https://github.com/AkashKeote/AkashKeote/blob/main/ezgif-5-cbb6a32a48.gif" />
-</h1> My Interest ⚡</h2>
+</h1> ⚡ My Interest ⚡</h2>
 
 <ul>
     <li>Tech & Gadgets</li>
