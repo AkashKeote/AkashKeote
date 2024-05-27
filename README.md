@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=F7C46F&center=true&vCenter=true&random=false&width=435&lines=😄+Hello;This+is+Akash+Keote" />
 </h1>
 
-<h2 align="left"><img src="https://github.com/AkashKeote/AkashKeote/blob/main/ezgif-5-cbb6a32a48.gif" />
+<h2 align="left">
 </h1> ⚡ My Interest ⚡</h2>
 
 <ul>
