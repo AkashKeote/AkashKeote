@@ -14,9 +14,9 @@
 
 
 <div align="left">
- 
+ <br>
  🏫 I’m currently currently pursuing engineering **GHRIETN 2026**
- 
+</br>
  
 
  </div>
