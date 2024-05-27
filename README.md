@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🏫 I’m currently currently pursuing engineering **GHRIETN 2026**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
