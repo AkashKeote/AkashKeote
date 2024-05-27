@@ -39,7 +39,7 @@
 <h2 align="left"> Languages And Tools With Am Feel Confortable </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/bxl-instagram.svg" />
     <img src="https://skillicons.dev/icons?i=python,c,java" /><br>
     
 </div>
