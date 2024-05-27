@@ -39,11 +39,9 @@
 <h2 align="left"> Languages And Tools With Am Feel Confortable </h2>
 <br/>
 <div align="center">
-    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/bxl-instagram.svg" />
-    <img src="https://skillicons.dev/icons?i=python,c,java" /><br>
-    
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-
 <br/>
 
 
