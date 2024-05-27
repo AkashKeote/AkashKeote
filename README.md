@@ -26,7 +26,7 @@
  
 <div align="center"> 
   <a href="https://www.instagram.com/am_sky__7/">
-    <img src="https://github.com/AkashKeote/AkashKeote/blob/main/2246825_instagram%20logo_label_logo_instagram_icon%20(2).png" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://github.com/AkashKeote/AkashKeote/blob/main/2613305_business_employment_identity_linkedin_social%20media_icon.png" />
