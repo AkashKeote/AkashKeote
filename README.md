@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="left">
-</h1> ⚡ My Interest ⚡</h2>
+ ⚡ My Interest ⚡</h2>
 
 <ul>
     <li>Tech & Gadgets</li>
