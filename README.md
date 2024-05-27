@@ -1,8 +1,6 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sevillana+&weight=600&size=21&pause=200&color=F7BE76&background=68253500&center=true&vCenter=true&random=false&width=435&lines=Hello+All+😁;I'm+Akash+Keote" alt="Typing SVG" /></a>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+All!+😁;+I'm+Akash+Keote;" />
-</h1>
+
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
