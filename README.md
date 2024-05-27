@@ -5,12 +5,13 @@
 </h1>
 
 <h2 align="left">⚡ My Intrest ⚡</h2>
+</br>
 Tech & Gadgets
 Love Coding
 Computer Gaming
 Learning New Things
 Computer Hardware Debugging
-<br/>
+
 
 <div align="left">
  
