@@ -5,8 +5,11 @@
 </h1>
 
 <h2 align="left">My Intrest 🙃</h2>
-<h3 align="left">Tech & Gadgets</h3>
-
+<h4 align="left">Tech & Gadgets</h4>
+<h4 align="left">Love Coding</h4>
+<h4 align="left">Computer Gaming</h4>
+<h4 align="left">Learning New Things</h4>
+<h4 align="left">Computer Hardware Debugging</h4>
 <br/>
 
 <div align="left">
