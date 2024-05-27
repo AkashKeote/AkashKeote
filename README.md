@@ -1,4 +1,4 @@
-<img align="right" src="![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)" />
+<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true)" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=F7C46F&center=true&vCenter=true&random=false&width=435&lines=😄+Hello;This+is+Akash+Keote"
