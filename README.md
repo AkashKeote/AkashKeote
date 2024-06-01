@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true" />
+<img align="right" alt="Coding" width="400" src="https://github.com/AkashKeote/AkashKeote/blob/main/Coding%20Animation.gif">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=F7C46F&center=true&vCenter=true&random=false&width=435&lines=😄+Hello+And+Welcome;This+is+Akash+Keote" />
