@@ -40,7 +40,7 @@
 
 <h2 align="left">Languages And Tools I Am Comfortable With</h2>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,git,github,html,css,c,python,vscode,pr,py,ubuntu,windows,kali" />
+<img src="https://skillicons.dev/icons?i=java,git,github,html,css,c,python,vscode,pr,py,ubuntu,flutter,windows,kali" />
 </div>
 
 <hr/>
