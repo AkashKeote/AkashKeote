@@ -7,7 +7,7 @@
 
 <h2 align="left">
  ⚡ My Interest ⚡</h2>
-<img align="right" alt="Coding" width="400"  src="https://github.com/AkashKeote/AkashKeote/blob/main/Coding%20Animation.gif">
+<img align="right" alt="Coding" width="300"  src="https://github.com/AkashKeote/AkashKeote/blob/main/Coding%20Animation.gif">
 <ul>
     <li>Tech & Gadgets</li>
     <li>Love Coding</li>
