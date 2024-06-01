@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/app-development-concept-with-laptop_23-2148699364.jpg?w=740&t=st=1717225476~exp=1717226076~hmac=6115a9e42c9902b6fe986c5455729bacbe0d390897a1768370406ae3e1ca70ac)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true" />
 
 
