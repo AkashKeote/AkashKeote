@@ -47,9 +47,9 @@
 
 <h2 align="center">⚡ My Progress On Github ⚡</h2>
 <br>
-<div align=left>
+<div align=center>
   
-  <img width=390 align="left" src="https://github-readme-streak-stats-salesp07.vercel.app?user=AkashKeote&theme=dracula&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <img width=390 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=AkashKeote&theme=dracula&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 </div>
 </br>
