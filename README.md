@@ -1,6 +1,6 @@
 
 ![MasterHead](https://github.com/AkashKeote/AkashKeote/blob/main/akash.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true" />
+[![](https://visitcount.itsvg.in/api?id=AkashKeote&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
 <h1 align="center">
