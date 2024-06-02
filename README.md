@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=F7C46F&center=true&vCenter=true&random=false&&width=500&height=150&&lines=😄+Hello+And+Welcome;This+is+Akash+Keote" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&pause=1000&color=F7A876&background=FFD26D00&vCenter=true&random=false&lines=%F0%9F%98%81+Hello+And+Welcome+;This+Is+Akash+Keote" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="left">
