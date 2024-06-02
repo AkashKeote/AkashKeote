@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=F7C46F&center=true&vCenter=true&random=false&&width=10&height=150&&lines=😄+Hello+And+Welcome;This+is+Akash+Keote" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&pause=1000&color=F7C46F&center=true&vCenter=true&random=false&&width=100&height=150&&lines=😄+Hello+And+Welcome;This+is+Akash+Keote" />
 </h1>
 
 <h2 align="left">
