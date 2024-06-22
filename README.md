@@ -1,5 +1,4 @@
-
-![MasterHead](https://github.com/AkashKeote/AkashKeote/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+![MasterHead](https://github.com/AkashKeote/AkashKeote/blob/main/akash.gif)
 [![](https://visitcount.itsvg.in/api?id=AkashKeote&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
