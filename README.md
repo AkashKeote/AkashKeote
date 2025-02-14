@@ -39,7 +39,7 @@
 
 <h2 align="left">Languages And Tools I Am Comfortable With</h2>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=java,git,github,html,css,c,python,vscode,pr,py,ubuntu,windows,kali,figma,flutter,firebase,dart,ai,mysql,https://github.com/user-attachments/assets/84f129c7-b08a-42c1-8f9b-928d69505b6b" />
+<img src="https://skillicons.dev/icons?i=java,git,github,html,css,c,python,vscode,pr,ubuntu,windows,kali,figma,flutter,firebase,dart,ai,mysql,https://github.com/user-attachments/assets/84f129c7-b08a-42c1-8f9b-928d69505b6b" />
 </div>
 
 <hr/>
